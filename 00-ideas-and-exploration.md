@@ -1,5 +1,28 @@
+# Explore of intersting problems involving driven oscillators/pendulums
+Summarize our exploration of interesting problems and simpler variants that we can use to orient our understand.
 
+## Some intersting questions to explore 
+ - How do we calculate the center of mass for a complicated object
+    -...and how do we approach this proble if it is not rigid?
+   -Can we understand and predict the dynamics of the driven rigid pendulum?
+     - is there a closed-form solution?
+   - How do things change when the problem motion affects the drivers's motion?
+     
+### Driven rigid pendulum
+**What do we know about pendulum motion:**
+- Make strong statements about forces, torques, potential/kinetic energy
+   - need to remind ourselves about polar coordinstes and angular motion
+- $ \vec{F}_g = -m g\hat{y} $
+- $ \omega = 2\pi f = 2\pi/T $
 
+- What do we remember about a pendulum
+   - simple harmonic motion (_when?_)
+      - **guess:** between $\pm 90^{\circ}$?
+     - We expect that simple harmonic motion breaks down for large starting displacement of the pendulum
+    
+
+        
+        
 
 
 
